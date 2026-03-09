@@ -224,7 +224,5 @@ The Enterprise AI Strategy Playbook provides a structured approach to adopting A
 ---
 
 # Repository Structure
-Readme filr
- Documents:
-    Production Ready 12 Steps Dev-Ops Framework
-    ROI Calculation Framework for Ai Solution
+- https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/tree/main#:~:text=Production%2DReady%20LLMOps%20Lifecycle.pdf
+- 
