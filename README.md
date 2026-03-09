@@ -224,7 +224,7 @@ The Enterprise AI Strategy Playbook provides a structured approach to adopting A
 ---
 
 # Repository Structure
-- 12 Srep LLM-Ops Life cycle - https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/tree/main#:~:text=Production%2DReady%20LLMOps%20Lifecycle.pdf
+- 12 Step LLM-Ops Life cycle - https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/tree/main#:~:text=Production%2DReady%20LLMOps%20Lifecycle.pdf
 - ROI Calculation Framework for AI Solution - https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/tree/main#:~:text=ROI%20Calculation%20Framework%20for%20AI%20Solution.pdf
   
 - 
