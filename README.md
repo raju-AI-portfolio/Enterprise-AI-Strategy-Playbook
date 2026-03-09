@@ -213,6 +213,11 @@ The next phase of enterprise AI will focus on:
 
 Organizations that invest in structured AI strategies will gain a significant competitive advantage.
 
+
+Enterprise LLMOps Architecture                           Enterprise Deployment Architecture                      
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/98baf37c-f7b3-4585-a90e-8224b9830598" />        <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/debb951c-0631-4cff-af06-ae4e4d777bcd" />
+
+
 ---
 
 # Conclusion
