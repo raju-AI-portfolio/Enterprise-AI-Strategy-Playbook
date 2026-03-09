@@ -224,3 +224,7 @@ The Enterprise AI Strategy Playbook provides a structured approach to adopting A
 ---
 
 # Repository Structure
+Readme filr
+ Documents:
+    Production Ready 12 Steps Dev-Ops Framework
+    ROI Calculation Framework for Ai Solution
