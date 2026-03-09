@@ -219,6 +219,8 @@ Organizations that invest in structured AI strategies will gain a significant co
 
 The Enterprise AI Strategy Playbook provides a structured approach to adopting AI across an organization. By combining strong data foundations, scalable AI architecture, and responsible governance, organizations can unlock the full potential of AI technologies and drive sustainable business value.
 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/24518290-ee76-4606-abed-379eb4924d24" />
+
 ---
 
 # Repository Structure
