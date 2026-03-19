@@ -235,4 +235,4 @@ The Enterprise AI Strategy Playbook provides a structured approach to adopting A
   
 - LLM Routing and Fallback Architecture - https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/blob/main/LLM%20Routing%20and%20Fallback%20Architecture.pdf
 - LLM Risks and Safety Guardrails - https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook/blob/main/LLM%20Risks%20and%20Safety%20Guardrails.pdf
-  
+- Observability - Tracing - Langfuse - Monitor Performance - 
